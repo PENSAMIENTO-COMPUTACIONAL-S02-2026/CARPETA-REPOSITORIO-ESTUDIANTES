@@ -164,3 +164,27 @@ Características:
 * Escala simple (0-100).
 * Sintaxis mínima.
 * Objetivo: aprender lógica computacional visualmente.
+---
+
+## Processing
+
+* Processing es un software libre y de código abierto.
+* Está pensado para la enseñanza de programación visual.
+* Permite crear gráficos, animaciones e interacciones.
+* Fue freado en el MIT Media Lab en 2001.
+* Sus creacores son Casey Reas y Ben Fry.
+* Surge como evolución de Desing by Numbers (DBN).
+* Mantiene una sintaxis simple y la idea de "sketchbook".
+---
+
+## p5.js
+
+* p5.js es una biblioteca de JavaScript basada en Processing.
+* Es una herramienta online y muy amigable para principiantes.
+* Permite programar directamente en el navegador.
+* Promueve:
+  * Accesibilidad
+  * Inclusión
+  * Comunidad
+* Facilita crear obras interactivas, visuales y experimentales para la web.
+* Hace el código más intuitivo, como dibujar en un cuaderno.
