@@ -76,3 +76,25 @@
 * Idea clave: Computabilidad universal.
   * Una máquina puede simular cualquier otra.
 * Lo importante no es el hardware, es el código.
+---
+
+# El despertar visual
+
+* Inicio del uso de computadoras como herramienta creativa.
+* Surge el interés por lo visual dentro de la computación.
+* Se pasa de cálculo técnico a exploración estética.
+---
+
+## Artistas y Algoritmos (1960s)
+
+* Nace el arte computacional en los años 60.
+* Uso de algoritmos para generar arte.
+* Pioneros:
+  * Vera Moñnár
+  * Manfred Mohr
+  * Georg Nees
+  * Frieder Nake
+  * Lillian Schwartz
+  * Hiroshi Kawano
+* Movimiento en Europa, EE.UU., Japón y Brasil.
+* La computadora como herramienta artística emergente.
