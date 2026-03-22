@@ -98,3 +98,69 @@
   * Hiroshi Kawano
 * Movimiento en Europa, EE.UU., Japón y Brasil.
 * La computadora como herramienta artística emergente.
+---
+
+## Computer Technique Group (CTG)
+
+* Grupo clave en Japón.
+* Enfoque: usar la tecnología para resolver problemas complejos.
+* Visión crítica: evitar que la tecnología sirva solo al poder establecido.
+* Relación entre arte, sociedad y computación.
+---
+
+## Sketchpad  
+**Ivan Sutherland (1963)**  
+* Primer sistema de dibujo interactivo.
+* Uso de lápiz óptico en pantalla.
+* Introduce:
+  * Interacción humano- computadora
+  * Manipulación directa de gráficos
+* Base de programas de diseño actuales.
+* Concepto temprano de programación orientada a objetos.
+---
+
+# Democratización del Creative Coding
+
+* La proframación se vuelve accesible.
+* Más personas pueden crear con código.
+* Expansión del arte digital y diseño computacional.
+---
+
+## Software Libre
+
+* Iniciado por Richard Stallman (1983, Proyecto GNU).
+* Fundación FSF (1985).
+* Objetivo: sistema operativo libre.
+
+**4 Libertades**  
+1. Usar el software
+2. Estudiarlo
+3. Distribuirlo
+4. Mejorarlo. Reacción contra el software propietario.
+---
+
+## Free Software vs Open Source
+
+**Software Libre:**  
+* Enfoque ético (libertad del usuario).
+* Defendido por la FSF.
+
+**Open Source**  
+* Enfoque práctico/técnico.
+* Prioriza calidad y colaboración.
+* Acepta software propietario.
+* Conceptos:
+  * FOSS / FLOSS
+  * Freeware es distinto de software libre.
+---
+
+## Desing By Numbers  
+**John Maeda (1999)**  
+* Proyecto educativo en MIT Media Lab.
+* Lenguaje simple para enseñar programación a diseñadores.
+
+Características:  
+* Cuadrícula fija (100x100).
+* Escala simple (0-100).
+* Sintaxis mínima.
+* Objetivo: aprender lógica computacional visualmente.
