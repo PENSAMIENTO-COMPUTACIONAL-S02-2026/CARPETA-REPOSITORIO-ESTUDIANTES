@@ -44,6 +44,12 @@ LA COMPUTACIÓN
 
 
 
+DIBUJO GEOMETRICO INSPO: Hilma Af Klint, svanen n17:
+![dibujo geométrico ](https://github.com/user-attachments/assets/9ee6a81a-9e5e-4f53-ba34-6ca2efc28a9c)
+
+
+
+
 
   
   
