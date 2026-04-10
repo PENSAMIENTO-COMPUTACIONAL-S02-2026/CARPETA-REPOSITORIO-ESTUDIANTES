@@ -6,7 +6,8 @@
 - Para hacer una linea: --- + enter
     * Ejemplo:
       ---
-      
+
+      hola
 - Para titulos: 
   # titulo
   ## titulo 2
