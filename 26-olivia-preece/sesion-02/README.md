@@ -25,3 +25,29 @@ Es un lenguaje de marcado ligero. En términos simples, es una forma de escribir
 * Escapado de símbolos -> \#texto
 
 ### Listas ###  
+* VIÑETAS
+* Elemento A
+* Elemento B
+* Elemento C
+  * Sub elemento C1
+  * Sub elemento C2
+ 
+* NÚMEROS
+1. Elemento A
+2. Elemento B
+3. Elemento C
+   1. Sub elemento C1
+   2. Sub elemento C2
+  
+### Links & imágenes ###  
+LINKS:[Nombre de la web](https://url.com)  
+IMÁGEN:![Texto alternativo](https://url-de-la-imagen.jpg)  
+IMÁGEN CON LINK: [![Texto alternativo](url-imagen)](url-destino)
+
+### Tablas ###  
+| Artista | Técnica | Año |
+| :--- | :---: | ---: |
+| A | B | C |
+| D | E | F |  
+
+

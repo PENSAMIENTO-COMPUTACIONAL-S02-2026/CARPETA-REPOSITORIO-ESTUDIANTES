@@ -1,6 +1,6 @@
 # Pensamiento Computacional 
 
-* Uao del pensamiento lógico aplicado al diseño.
+* Uso del pensamiento lógico aplicado al diseño.
 * Se trabajan ejercicios visuales y experienciales. Patrones, secuencias y algoritmos como lenguaje.
 * Herramientas visuales accesibles.
 ---

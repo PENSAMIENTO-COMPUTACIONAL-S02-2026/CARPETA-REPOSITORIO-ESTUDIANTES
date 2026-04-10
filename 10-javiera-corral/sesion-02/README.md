@@ -1,4 +1,4 @@
-# sesión 03 - 2/03
+# sesión 02 - 2/03
 
 CLASE02 markdown e historia de la computación 20/03/2026
 --

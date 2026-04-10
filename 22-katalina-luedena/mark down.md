@@ -13,10 +13,7 @@ ENCABEZADOS-
 #título nivel 1  
 ##nivel 2  
 ###nivel 3, y así.  
-#Formato de texto:  
-
-  
-
+#Formato de texto:
 
 # Breve hisitoria de la computación  
 ## Maquina diferencial/ Charles Babbage, 1822.  
@@ -124,20 +121,6 @@ Quisieron expandir las limitaciones del Desing by Numbers (DBN).
 Agregaron la paleta de color y tamaño variable.  
 
 Mantuvieron la simplicidad en la sistaxis en el código y la idea del #sketchbook".
-
-
-
-
-
-
-
-
-     
-    
-
-
-
-
 
 
 
