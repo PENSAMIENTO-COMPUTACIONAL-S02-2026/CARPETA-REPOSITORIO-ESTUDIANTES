@@ -1,8 +1,8 @@
 # **Radios**  
 
 * Radius- Radian
-* Es una medida que se usa en geometria. Es cuando el ángulo de afuera mide lo mismo que el ángulo del circulo.
-* Un angulo forma un radian cuando el alguno de la circunferencia es igual a su radio.
+* Es una medida que se usa en geometría. Es cuando el ángulo de afuera mide lo mismo que el ángulo del circulo.
+* Un ángulo forma un radian cuando el alguno de la circunferencia es igual a su radio.
 
 ![Radian](https://github.com/user-attachments/assets/c734de5c-003a-424b-ae65-a6bd43137a4e) 
 
@@ -144,5 +144,22 @@ If - else if - else
 If (condición) {ejecuta este código si es true}  
 * Si algún estudiante apaga por completo las luces de la sala, la profesora debe bailar.
 
-* La sentencia if puede complementarse con la sentencia else if, que añade condiciones de prueba complementarias a la original, y con la sentencia else, que implica todos los casos que no cumplen con la condición original. Puedes añadir tantas sentencias else if como desees). If (condición) {ejecuta este código si es true}
+* La sentencia if puede complementarse con la sentencia else if, que añade condiciones de prueba complementarias a la original, y con la sentencia else, que implica todos los casos que no cumplen con la condición original. Puedes añadir tantas sentencias else if como desees). If (condición) {ejecuta este código si es true}  
+else if (condición 2) {ejecuta este código si es true}  
+else {ejecuta este código si ambas condiciones son falsas}
+
+
+___
+
+## Encargo 4  
+Crear un sketch libre que contenga:
+
+* Varias figuras geométricas
+* Rotación
+* Translate
+* Push Pop
+* Scale
+* Texto
+* Imagen
+* 2 sentencias condicionales completas (If - else if - else)
 
