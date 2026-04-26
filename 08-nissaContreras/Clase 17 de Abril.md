@@ -4,6 +4,11 @@
 * Es una medida que se usa en geometria. Es cuando el ángulo de afuera mide lo mismo que el ángulo del circulo.
 * Un angulo forma un radian cuando el alguno de la circunferencia es igual a su radio.
 
+![Radian](https://github.com/user-attachments/assets/c734de5c-003a-424b-ae65-a6bd43137a4e) 
+
+
+___
+
 ## **Ángulos** angleMode();
 
 * Por defecto p5.js usa radiantes para medir los ángulos.
@@ -16,6 +21,11 @@
     * PI 180°
     * HALF_PI 90°
     * QUARTER_PI 45°
+
+![Ángulos](https://github.com/user-attachments/assets/87d480b3-5cca-436e-96ed-bdf7c53637b6) 
+
+
+___
  
 ## **Rotación** rotate();
 
@@ -28,11 +38,13 @@
 
 * Sirve para trasladar el punto de origen (0,0) a otra coordenada de mi canvas.
 
+
 ## **Guardar y restaurar** push(); pop();
 
 * Funciones que trabajan juntas como un "sistema de memoria temporal" para el estilo y las transformaciones del lienzo.
 * Es para comenzar una variable y encerrarlo en una "capa" y no altera las demás.
 * Si quiero que un objeto gire en el sentido contrario le pongo un menos y los valores se vuelven negativos.
+
 
 ## **Escala** scale();
 
@@ -69,6 +81,7 @@ Sirven para combinar varias expresiones.
 * OR (||): Es verdadero si al menos una de las partes es verdadera.
 * NOT (!): Invierte el valor (si era verdadero, pasa a ser falso).
 
+
 ___
 
 **Ejemplo de comparaciones** 
@@ -91,6 +104,7 @@ EJEMPLOS
 
 12 < 12 // devuelve false
 12 <= 12 // devuelve true
+
 
 ___
 
@@ -118,6 +132,7 @@ EJEMPLO:
 let bool1 = true;  
 console.log(bool1); // imprime true  
 console.log(!bool1); // imprime false
+
 
 ___
 
