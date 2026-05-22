@@ -79,6 +79,12 @@ https://editor.p5js.org/tomas1000000/sketches/Wog50zU3M
 
 ---
 
+### DIAGRAMA DE FLUJO
+
+<img width="6113" height="8015" alt="Mi primer tablero" src="https://github.com/user-attachments/assets/cdc47116-6776-4635-8138-e85045b4dd20" />
+
+---
+
 ### CODIGO
 
 ```
