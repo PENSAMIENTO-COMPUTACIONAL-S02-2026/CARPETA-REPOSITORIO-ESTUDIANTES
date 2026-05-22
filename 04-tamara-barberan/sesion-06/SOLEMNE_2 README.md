@@ -47,4 +47,12 @@ la situación desde la mirada de la víctima.
 **Referentes**
 * Los referentes visuales del proyecto provienen principalmente de posters que abordan esta problemática, principalmente de un poster de la Facultad de Ciencias Culturales (FIB) de la Universidad Diponegoro (Undip) en Indonesia,fue una pieza de comunicación visual creada por los  estudiantes y la facultad para concientizar y luchar contra la violencia y el acoso sexual dentro del campus universitario.
 * En general fue ese poster que me dio la inciativa para crear mi obra y la principal inspiración, ya que me atrajo demasiado que el poster jugara con colores limitados, especialmente el uso del rojo, negro y sombras para transmitir tensión, peligro y ansiedad.
-* 
+
+<img width="736" height="1040" alt="Poster" src="https://github.com/user-attachments/assets/d9ab83bb-c60a-4856-b07d-e8832d0950aa" />
+
+
+**DIAGRAMA DE FLUJO:**
+<img width="1024" height="768" alt="Grafica Diagrama de Flujo Profesional Beige" src="https://github.com/user-attachments/assets/36e0bd26-9a6f-4b49-b4bc-f5d9a928dc42" />
+
+**LINK AL SKETCH P5.JS**
+https://editor.p5js.org/tamara.barberan/sketches/rHuJfhuR0
