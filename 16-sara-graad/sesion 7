@@ -1,0 +1,26 @@
+# Loops (While y For)
+
+
+---
+
+## 1. ¿Qué es un Loop o Bucle?
+Es una estructura de control que permite repetir un bloque de instrucciones de manera consecutiva mientras se cumpla una condición específica. Ayuda a evitar la repetición manual de líneas de código idénticas.
+
+---
+
+## 2. El Bucle `while`
+Ejecuta las instrucciones continuamente mientras su condición lógica sea verdadera. Funciona de manera similar a una sentencia `if`, pero con la capacidad de repetirse en bucle.
+
+### Componentes obligatorios
+Para evitar que el bucle se vuelva infinito y congele el navegador, se deben estructurar tres elementos:
+1. **Inicialización:** Declarar una variable de control con un valor inicial fuera del bucle.
+2. **Condición:** La pregunta lógica que determina si el bucle debe seguir ejecutándose.
+3. **Actualización:** Modificar el valor de la variable de control dentro del bucle para acercarse al final de la condición.
+
+```javascript
+let x = 0; // 1. Inicialización
+
+while (x < width) { // 2. Condición
+  ellipse(x, 200, 25, 25);
+  x = x + 50; // 3. Actualización
+}
