@@ -79,6 +79,15 @@ https://editor.p5js.org/tomas1000000/sketches/Wog50zU3M
 
 ---
 
+## REFERENTES VISUALES
+<img width="735" height="490" alt="NEW MERCAT FONT SET - Toormix Design Agency" src="https://github.com/user-attachments/assets/fa4d055d-c818-4102-a96e-db74143a00e6" />
+<img width="736" height="736" alt="Monobotics – Alphamark™" src="https://github.com/user-attachments/assets/5766591d-ec4c-41d1-9df8-0fcad344612d" />
+<img width="736" height="906" alt=" " src="https://github.com/user-attachments/assets/379a1f4c-40e7-49ba-9bad-b31bece6efd2" />
+
+Esta composición se inspira en la estética técnica de las interfaces de sistemas con el activismo político, tratando los datos de decesos como si fueran registros de error en una pantalla de computadora. Al utilizar una disposición saturada propia del diseño de terminales de comandos, la pieza transforma la memoria histórica en una interfaz fría y urgente, donde el contraste entre el archivo fotográfico en blanco y negro y el rojo vibrante del "contador" funciona como una señal de advertencia crítica, revelando la deshumanización de las estadísticas frente a la realidad de la violencia.
+
+---
+
 ### DIAGRAMA DE FLUJO
 
 <img width="6113" height="8015" alt="Mi primer tablero" src="https://github.com/user-attachments/assets/cdc47116-6776-4635-8138-e85045b4dd20" />
