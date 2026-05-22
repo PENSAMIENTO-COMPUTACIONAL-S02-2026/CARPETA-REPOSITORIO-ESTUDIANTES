@@ -1,4 +1,4 @@
-# Repo solemne 2
+# Repo Solemne 2
 
 ---
 
