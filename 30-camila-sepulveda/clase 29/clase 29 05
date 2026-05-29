@@ -1,1 +1,24 @@
+# Repaso: 
+
+Diagrama de flujo: 
+
+Algoritmo son instrucciones paso a paso, logicas, definidas, ordenadas y finitas, que permiten solucionar un problema.
+
+Tiene un orden de como se construye el algoritmo, desde un inicio del canvas hasta el final, explicando de manera detallada las acciones o precesos de la codificación.
+se realiza el diagrama como herramienta de planificación para visualizar la logica de un programa antes de escribir una linea de codigo. 
+
+ # Arrays (listas o arreglos): 
+
+Contenedor de compartimientos numerados donde puedes guardar multiples datos bajo un mismo nombre, para mantener los datos mas ordenados y contener datos relacionados en un mismo contenedor. 
+
+Ejemplo: imagina un  tren, en donde cada vagon es un elemento y cada elemento puede contener lo que quieras, donde cada vagon se empieza a contar desde el 0 en adelante. 
+
+Array sintaxis: let nombreArray = [e0 , e1, e2, e3, e4, e5] ; * e es igual a elemento. 
+
+Ejemplo: let Colores = ["red", "orange", "yellow", "green", "blue"];
+
+como se usaria estos elementos del array?
+Background(colores[1]; //esto pintara mi fondo de color anaranjado. 
+
+Para llamar alguno de los valores de mi array vamos a usar: nombreArray [n° elemento] 
 
